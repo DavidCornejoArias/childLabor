@@ -1,7 +1,7 @@
 clear all
-cd "C:\Users\david\Dropbox\cover letterand others"
+cd "direction"
 use "EHPM2018.dta", replace
-cd "C:\Users\david\Dropbox\cover letterand others\labourEconomicsPaper"
+cd "direction\labourEconomicsPaper"
 * ssc install textdoc
 *net from http://www.stata-journal.com/production
 *net install sjlatex
